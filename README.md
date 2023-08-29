@@ -2,7 +2,7 @@
 <br>
   <section><em>
     <ul>
-        <li>🎓 I'm a developer, currently studying ASD at Unopar.</li>
+        <li>🎓 I'm a developer, currently studying SAD at Unopar.</li>
         <li>🌎 No man will achieve a better friend than great wisdom.</li>
         <li>🖤 I like developer new skills and my hobbies are games, sports and reading.</em></li>
     </ul>
